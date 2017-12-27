@@ -1,2 +1,2 @@
 import sys
-print(sys.argv)
+print(sys.argv) #prints the argument and the commands
